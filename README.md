@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dictionary Project README</title>
+
 </head>
 <body>
     <h1>Dictionary Project</h1>
